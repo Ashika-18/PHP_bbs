@@ -13,7 +13,7 @@
             <input type="text" name="n">
         </div>
         メッセージ
-        <div><textarea name="m"></textarea></div>
+        <div><textarea name="m" placeholder="メッセージ"></textarea></div>
         <input type="submit" value="送信するよ！">
     </form>
     <hr>
